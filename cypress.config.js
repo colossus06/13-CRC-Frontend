@@ -17,6 +17,6 @@ module.exports = defineConfig({
       allureWriter(on, config);
       return config;
     },
-    baseUrl: 'https://resume.devtechops.dev/'
+    baseUrl: 'https://crctopcug.devtechops.dev/'
   },
 });
