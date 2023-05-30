@@ -22,7 +22,7 @@ jobs:
       uses: azure/CLI@v1
       with:
         inlineScript: |
-            az storage blob upload-batch --account-name sttestcrctopcug --auth-mode key -d '$web' -s templates/frontend/ --overwrite
+            az storage blob upload-batch --account-name sttestcrctopcug --auth-mode key -d '$web' -s frontend/ --overwrite
 
     - name: Purge CDN endpoint
       uses: azure/CLI@v1
@@ -36,7 +36,7 @@ jobs:
             az logout
       if: always()
     
-  cypress-run:
+  smoke-tests:
     needs: build
     runs-on: ubuntu-22.04
     steps:        
