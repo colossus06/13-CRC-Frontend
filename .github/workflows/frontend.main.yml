@@ -4,12 +4,11 @@ permissions:
 # Deploys when push is made from templates/frontend/ folder
 
 
-
 on:
     push:
         branches: [ main ]
         paths: 
-        - 'templates/frontend/**'
+        - 'frontend/**'
 jobs:
   build:
     runs-on: ubuntu-latest
