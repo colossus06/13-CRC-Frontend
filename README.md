@@ -1,5 +1,16 @@
 # CRC frontend CICD statuses
 
+* Build Azure Storage and Some Tests:
+
+[![deploy_frontend](https://github.com/colossus06/crc-frontend/actions/workflows/frontend.main.yml/badge.svg)](https://github.com/colossus06/crc-frontend/actions/workflows/frontend.main.yml)
+
+* Cypress Tests:
+
+https://colossus06.github.io/crc-frontend/
+
+
+![](20230530233358.png)
+
 
 ## Summary
 
