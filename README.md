@@ -15,6 +15,11 @@ https://colossus06.github.io/crc-frontend/
 ![image](https://github.com/colossus06/crc-frontend/assets/96833570/a80a0915-7988-40e1-b1e1-6c0594694f60)
 
 
+![image](https://github.com/colossus06/crc-frontend/assets/96833570/ec3b8474-a2cc-4780-9c56-f2063484415f)
+
+
+Visit the Resume Site: https://crctopcug.devtechops.dev/
+
 ## Summary
 
 Building my resume website from the ground up with using utilizing a wide variety of Microsoft Azure's Cloud services such as Azure CosmosDB Table API, Azure Functions, Azure SDK, Azure Blob Storage, Azure CDN, Azure DNS zones.
