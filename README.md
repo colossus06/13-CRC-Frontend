@@ -17,6 +17,12 @@ https://colossus06.github.io/crc-frontend/
 
 ![image](https://github.com/colossus06/crc-frontend/assets/96833570/ec3b8474-a2cc-4780-9c56-f2063484415f)
 
+## Validation
+
+
+
+https://github.com/colossus06/crc-frontend/assets/96833570/6a513c0e-1089-4f6c-9a12-1d32cdabe973
+
 
 Visit the Resume Site: https://crctopcug.devtechops.dev/
 
