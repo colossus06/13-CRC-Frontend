@@ -21,7 +21,8 @@ https://colossus06.github.io/crc-frontend/
 
 
 
-https://github.com/colossus06/crc-frontend/assets/96833570/6a513c0e-1089-4f6c-9a12-1d32cdabe973
+[validation-2-crc.webm](https://github.com/colossus06/crc-frontend/assets/96833570/2e3e463b-2ade-4167-9661-f4bda53524bb)
+
 
 
 Visit the Resume Site: https://crctopcug.devtechops.dev/
